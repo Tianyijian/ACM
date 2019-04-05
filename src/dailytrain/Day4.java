@@ -1,7 +1,7 @@
 package dailytrain;
 
 /**LeetCode 494 Target Sum
- * @author 26241
+ * DFS 
  *
  */
 public class Day4 {	//DFS 
